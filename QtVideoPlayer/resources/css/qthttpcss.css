@@ -1,0 +1,19 @@
+
+MainWindow {
+    background-color:aliceblue;
+}
+QLabel {
+    color: darkorange;
+}
+QLineEdit {
+    border-radius: 5px;
+    border: 1px solid #398072;
+}
+QProgressBar {
+    border-radius: 5px;
+    background-color: aqua;
+}
+QSlider {
+    border-radius: 5px;
+    border: 2px solid aqua;
+}
