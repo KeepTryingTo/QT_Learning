@@ -3,3 +3,4 @@
 <p>------------------------------------------------------------------------------------------------</p>
 <h2>Projects</h2>
 <a class="text-decoration:none" href = "https://blog.csdn.net/Keep_Trying_Go/article/details/140296792" >一.QtVideoPlayer</a>
+<a class="text-decoration:none" href = "https://blog.csdn.net/Keep_Trying_Go/article/details/140515351" >二.QtCamera</a>
