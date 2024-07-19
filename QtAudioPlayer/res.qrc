@@ -1,0 +1,13 @@
+<RCC>
+    <qresource prefix="/new/prefix1">
+        <file>resources/images/close.png</file>
+        <file>resources/images/file.png</file>
+        <file>resources/images/music.png</file>
+        <file>resources/images/start.png</file>
+        <file>resources/images/stop.png</file>
+        <file>resources/images/title.jpg</file>
+        <file>resources/css/qthttpcss.css</file>
+        <file>resources/audios/where to go.mp3</file>
+        <file>resources/audios/possible.mp3</file>
+    </qresource>
+</RCC>
