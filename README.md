@@ -10,4 +10,5 @@
 <a text-decoration="none" href = "https://blog.csdn.net/Keep_Trying_Go/article/details/140296792" >一.QtVideoPlayer</a><br/>
 <a style="text-decoration:none" href = "https://blog.csdn.net/Keep_Trying_Go/article/details/140515351" >二.QtCamera</a><br/>
 <a style="text-decoration:none" href = "https://mydreamambitious.blog.csdn.net/article/details/140296792" >三.QtMediaRecorder</a><br/>
-<a style="text-decoration:none" href = "https://mydreamambitious.blog.csdn.net/article/details/140592102" >四.QtVideoRecorder</a>
+<a style="text-decoration:none" href = "https://mydreamambitious.blog.csdn.net/article/details/140592102" >四.QtVideoRecorder</a><br/>
+<a style="text-decoration:none" href = "https://blog.csdn.net/Keep_Trying_Go/article/details/140619235" >五.QtMediaMetaData</a>
