@@ -2,6 +2,8 @@
 <p align = "center">
 	<a href = "https://blog.csdn.net/keep_trying_go/category_12736526.html"><img src = "https://img.shields.io/badge/C/C++-Qt-%23CC05FF"/></a>
 	<a href = "https://blog.csdn.net/keep_trying_go/category_12736526.html"><img src = "https://img.shields.io/badge/C/C++-Multimedia-door"/></a>
+ 	<a href = "https://blog.csdn.net/keep_trying_go/category_12736526.html"><img src = "https://img.shields.io/badge/C%2FC%2B%2B-Charts-8A2BE2"/></a>
+
 </p>
 <hr style="border : 1px dashed blue;" />
 <h2 align = "center">该项目主要用于QT的初级学习</h2>
