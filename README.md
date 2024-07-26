@@ -14,3 +14,4 @@
 <a style="text-decoration:none" href = "https://blog.csdn.net/Keep_Trying_Go/article/details/140619235" >五.QtMediaMetaData</a><br/>
 <a style="text-decoration:none" href = "https://mydreamambitious.blog.csdn.net/article/details/140646599" >六.QtCamera</a><br/>
 <a style="text-decoration:none" href = "https://mydreamambitious.blog.csdn.net/article/details/140652037" >七.QtVideoPlayer</a><br/>
+<a style="text-decoration:none" href = "https://blog.csdn.net/Keep_Trying_Go/article/details/140724219" >八.QtCharts</a><br/>
