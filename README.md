@@ -19,4 +19,5 @@
 <a style="text-decoration:none" href = "https://mydreamambitious.blog.csdn.net/article/details/140646599" >六.QtCamera</a><br/>
 <a style="text-decoration:none" href = "https://mydreamambitious.blog.csdn.net/article/details/140652037" >七.QtVideoPlayer</a><br/>
 <a style="text-decoration:none" href = "https://blog.csdn.net/Keep_Trying_Go/article/details/140724219" >八.QtCharts</a><br/>
-<a style="text-decoration:none" href = "https://blog.csdn.net/Keep_Trying_Go/article/details/140736808" >九.QtTcpSocket</a><br/>
+<a style="text-decoration:none" href = "https://blog.csdn.net/Keep_Trying_Go/article/details/140736808" >九.QtClientTcpSocket</a><br/>
+<a style="text-decoration:none" href = "https://blog.csdn.net/Keep_Trying_Go/article/details/140747535" >十.QtServerTcpSocket</a><br/>
