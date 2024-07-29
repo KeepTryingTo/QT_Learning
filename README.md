@@ -21,3 +21,5 @@
 <a style="text-decoration:none" href = "https://blog.csdn.net/Keep_Trying_Go/article/details/140724219" >八.QtCharts</a><br/>
 <a style="text-decoration:none" href = "https://blog.csdn.net/Keep_Trying_Go/article/details/140736808" >九.QtClientTcpSocket</a><br/>
 <a style="text-decoration:none" href = "https://blog.csdn.net/Keep_Trying_Go/article/details/140747535" >十.QtServerTcpSocket</a><br/>
+<a style="text-decoration:none" href = "https://blog.csdn.net/Keep_Trying_Go/article/details/140753417" >十一.QtNetworkAccessManager</a><br/>
+
