@@ -9,7 +9,7 @@
 
 </p>
 <hr style="border : 1px dashed blue;" />
-<h2 align = "center">QT初级案例学习教程&<a href = "https://www.bilibili.com/video/BV1zNvkeAEZy?p=1">B站视频教程</a></h2>
+<h2 align = "center"><a href = "https://blog.csdn.net/keep_trying_go/category_12736526.html">QT初级案例学习教程</a>&<a href = "https://www.bilibili.com/video/BV1zNvkeAEZy?p=1">B站视频教程</a></h2>
 <p></p>
 <h2>Projects</h2>
 <a text-decoration="none" href = "https://blog.csdn.net/Keep_Trying_Go/article/details/140296792" >一.QtVideoPlayer</a><br/>
