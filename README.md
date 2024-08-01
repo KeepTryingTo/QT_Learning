@@ -24,4 +24,5 @@
 <a style="text-decoration:none" href = "https://blog.csdn.net/Keep_Trying_Go/article/details/140747535" >十.QtServerTcpSocket</a><br/>
 <a style="text-decoration:none" href = "https://blog.csdn.net/Keep_Trying_Go/article/details/140753417" >十一.QtNetworkAccessManager</a><br/>
 <a style="text-decoration:none" href = "https://blog.csdn.net/Keep_Trying_Go/article/details/140805558" >十二.QtClient&ServerTcpSocket</a><br/>
+<a style="text-decoration:none" href = "https://mydreamambitious.blog.csdn.net/article/details/140829593" >十三.QtFTPClient&Server</a><br/>
 
