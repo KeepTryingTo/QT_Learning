@@ -27,4 +27,5 @@
 <a style="text-decoration:none" href = "https://mydreamambitious.blog.csdn.net/article/details/140829593" >十三.QtFTPClient&Server</a><br/>
 <a style="text-decoration:none" href = "https://mydreamambitious.blog.csdn.net/article/details/140863849" >十四.QtNetworkInterface</a><br/>
 <a style="text-decoration:none" href = "https://mydreamambitious.blog.csdn.net/article/details/140891944" >十五.QtTcpGroupChat</a><br/>
+<a style="text-decoration:none" href = "https://blog.csdn.net/Keep_Trying_Go/article/details/140904467" >十六.QtUDPSocket</a><br/>
 
