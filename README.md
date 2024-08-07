@@ -30,4 +30,5 @@
 <a style="text-decoration:none;" href = "https://blog.csdn.net/Keep_Trying_Go/article/details/140904467" >十六.QtUDPSocket</a><br/>
 <a style="text-decoration:none;" href = "https://mydreamambitious.blog.csdn.net/article/details/140910376" >十七.QtUDPBroadCast</a><br/>
 <a style="text-decoration:none;" href = "https://mydreamambitious.blog.csdn.net/article/details/140928684" >十八.QtUDPGroupChat</a><br/>
+<a style="text-decoration:none;" href = "https://mydreamambitious.blog.csdn.net/article/details/140998529" >十九.QtOpenCV_imread</a><br/>
 
