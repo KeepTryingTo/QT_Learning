@@ -1,10 +1,12 @@
 # QT_Learning
 <p align = "center">
-	<a href = "https://blog.csdn.net/keep_trying_go/category_12736526.html"><img src = "https://img.shields.io/badge/C/C++-Qt-%23CC05FF"/></a>
+	<a href = "https://codebrowser.dev/qt6/"><img src = "https://img.shields.io/badge/C/C++-Qt6-%23CC05FF"/></a>
 	<a href = "https://blog.csdn.net/keep_trying_go/category_12736526.html"><img src = "https://img.shields.io/badge/C/C++-Multimedia-door"/></a>
  	<a href = "https://blog.csdn.net/keep_trying_go/category_12736526.html"><img src = "https://img.shields.io/badge/C%2FC%2B%2B-Charts-8A2BE2"/></a>
 	<a href = "https://blog.csdn.net/keep_trying_go/category_12736526.html"><img src = "https://img.shields.io/badge/C%2FC%2B%2B-QtcpSocket-FF00CC"/></a>
  	<a href = "https://blog.csdn.net/keep_trying_go/category_12736526.html"><img src = "https://img.shields.io/badge/C%2FC%2B%2B-QtNetWork-FF00CC"/></a>
+	<a href = "https://docs.opencv.org/"><img src = "https://img.shields.io/badge/C%2FC%2B%2B-OpenCV Code-FF00CC"/></a>
+  
 
 
 </p>
@@ -31,4 +33,5 @@
 <a style="text-decoration:none;" href = "https://mydreamambitious.blog.csdn.net/article/details/140910376" >十七.QtUDPBroadCast</a><br/>
 <a style="text-decoration:none;" href = "https://mydreamambitious.blog.csdn.net/article/details/140928684" >十八.QtUDPGroupChat</a><br/>
 <a style="text-decoration:none;" href = "https://mydreamambitious.blog.csdn.net/article/details/140998529" >十九.QtOpenCV_imread</a><br/>
+<a style="text-decoration:none;" href = "https://mydreamambitious.blog.csdn.net/article/details/141020129" >二十.QtOpenCV_convert_draw</a><br/>
 
