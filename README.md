@@ -34,4 +34,5 @@
 <a style="text-decoration:none;" href = "https://mydreamambitious.blog.csdn.net/article/details/140928684" >十八.QtUDPGroupChat</a><br/>
 <a style="text-decoration:none;" href = "https://mydreamambitious.blog.csdn.net/article/details/140998529" >十九.QtOpenCV_imread</a><br/>
 <a style="text-decoration:none;" href = "https://mydreamambitious.blog.csdn.net/article/details/141020129" >二十.QtOpenCV_convert_draw</a><br/>
+<a style="text-decoration:none;" href = "https://mydreamambitious.blog.csdn.net/article/details/141029956" >二十一.QtOpenCV_translation_resize_crop</a><br/>
 
