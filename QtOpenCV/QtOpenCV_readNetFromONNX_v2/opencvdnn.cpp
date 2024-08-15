@@ -133,8 +133,9 @@ void OpenCVDNN::on_btn_predict_clicked(){
     qDebug()<<"blob.shape: "<<blob.size[0]<<","<<blob.size[1]<<","<<blob.size[2]<<","<<blob.size[3];
     qDebug()<<"blob channels = "<<blob.channels();
     qDebug()<<"blob total = "<<blob.total();
-    // 归一化处理
+    //归一化方式一
     blob = this -> normalizeBlob(blob,mean,std_dev);
+    //归一化方式二
     // for (int c = 0; c < blob.channels(); ++c) {
     //     float* data = blob.ptr<float>(c);
     //     for (int i = 0; i < blob.total(); ++i) {
