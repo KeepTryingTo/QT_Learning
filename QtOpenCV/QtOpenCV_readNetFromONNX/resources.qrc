@@ -1,0 +1,20 @@
+<RCC>
+    <qresource prefix="/new/prefix1">
+        <file>resources/images/daisy01.png</file>
+        <file>resources/images/daisy02.png</file>
+        <file>resources/images/daisy03.png</file>
+        <file>resources/images/dandelion01.png</file>
+        <file>resources/images/dandelion02.png</file>
+        <file>resources/images/dandelion03.png</file>
+        <file>resources/images/rose01.png</file>
+        <file>resources/images/rose02.png</file>
+        <file>resources/images/rose03.png</file>
+        <file>resources/images/sunflowers01.png</file>
+        <file>resources/images/sunflowers02.png</file>
+        <file>resources/images/sunflowers03.png</file>
+        <file>resources/images/tulips01.png</file>
+        <file>resources/images/tulips02.png</file>
+        <file>resources/images/tulips03.png</file>
+        <file>resources/best_0.793.onnx</file>
+    </qresource>
+</RCC>
