@@ -36,4 +36,6 @@
 <a style="text-decoration:none;" href = "https://mydreamambitious.blog.csdn.net/article/details/141020129" >二十.QtOpenCV_convert_draw</a><br/>
 <a style="text-decoration:none;" href = "https://mydreamambitious.blog.csdn.net/article/details/141029956" >二十一.QtOpenCV_translation_resize_crop</a><br/>
 <a style="text-decoration:none;" href = "https://mydreamambitious.blog.csdn.net/article/details/141164427" >二十二.QtOpenCV_add_subtract</a><br/>
+<a style="text-decoration:none;" href = "https://mydreamambitious.blog.csdn.net/article/details/141180470" >二十三.QtOpenCV_readNetFromONNX</a><br/>
+<a style="text-decoration:none;" href = "https://mydreamambitious.blog.csdn.net/article/details/141230843" >二十四.QtOpenCV_Classify</a><br/>
 
