@@ -39,5 +39,6 @@
 <a style="text-decoration:none;" href = "https://mydreamambitious.blog.csdn.net/article/details/141180470" >二十三.QtOpenCV_readNetFromONNX</a><br/>
 <a style="text-decoration:none;" href = "https://mydreamambitious.blog.csdn.net/article/details/141230843" >二十四.QtOpenCV_Classify</a><br/>
 <a style="text-decoration:none;" href = "https://mydreamambitious.blog.csdn.net/article/details/141291726" >二十五.QtOpenCV_yolov5_onnx</a><br/>
+<a style="text-decoration:none;" href = "https://mydreamambitious.blog.csdn.net/article/details/141304048" >二十六.QtOpenCV_Segmentation</a><br/>
 
 
