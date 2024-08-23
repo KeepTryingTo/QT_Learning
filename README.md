@@ -6,6 +6,7 @@
 	<a href = "https://blog.csdn.net/keep_trying_go/category_12736526.html"><img src = "https://img.shields.io/badge/C%2FC%2B%2B-QtcpSocket-FF00CC"/></a>
  	<a href = "https://blog.csdn.net/keep_trying_go/category_12736526.html"><img src = "https://img.shields.io/badge/C%2FC%2B%2B-QtNetWork-FF00CC"/></a>
 	<a href = "https://docs.opencv.org/"><img src = "https://img.shields.io/badge/C%2FC%2B%2B-OpenCV Code-FF00CC"/></a>
+ <a href = "https://blog.csdn.net/keep_trying_go/category_12736526.html"><img src = "https://img.shields.io/badge/C/C++-SDL2-door"/></a>
   
 
 
