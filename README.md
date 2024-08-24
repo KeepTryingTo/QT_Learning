@@ -43,5 +43,6 @@
 <a style="text-decoration:none;" href = "https://mydreamambitious.blog.csdn.net/article/details/141304048" >二十六.QtOpenCV_Segmentation</a><br/>
 <a style="text-decoration:none;" href = "https://mydreamambitious.blog.csdn.net/article/details/141427212" >二十七.QtSDL_AudioPlayer</a><br/>
 <a style="text-decoration:none;" href = "https://mydreamambitious.blog.csdn.net/article/details/141465343" >二十八.QtSDL_AudioPlayer_v2</a><br/>
+<a style="text-decoration:none;" href = "https://blog.csdn.net/Keep_Trying_Go/article/details/141503994" >二十九.QtSDL_AudiaoPlayer_v3</a><br/>
 
 
