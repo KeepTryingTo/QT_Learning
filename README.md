@@ -45,5 +45,6 @@
 <a style="text-decoration:none;" href = "https://mydreamambitious.blog.csdn.net/article/details/141465343" >二十八.QtSDL_AudioPlayer_v2</a><br/>
 <a style="text-decoration:none;" href = "https://blog.csdn.net/Keep_Trying_Go/article/details/141503994" >二十九.QtSDL_AudioPlayer_v3</a><br/>
 <a style="text-decoration:none;" href = "https://mydreamambitious.blog.csdn.net/article/details/141525936" >三十.QtSDL_AudioPlayer_v4</a><br/>
+<a style="text-decoration:none;" href = "https://mydreamambitious.blog.csdn.net/article/details/141549031" >三十一.QtSDL&FFmpeg_RecodeAudio</a><br/>
 
 
