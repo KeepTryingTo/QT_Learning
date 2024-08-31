@@ -6,7 +6,8 @@
 	<a href = "https://blog.csdn.net/keep_trying_go/category_12736526.html"><img src = "https://img.shields.io/badge/C%2FC%2B%2B-QtcpSocket-FF00CC"/></a>
  	<a href = "https://blog.csdn.net/keep_trying_go/category_12736526.html"><img src = "https://img.shields.io/badge/C%2FC%2B%2B-QtNetWork-FF00CC"/></a>
 	<a href = "https://docs.opencv.org/"><img src = "https://img.shields.io/badge/C%2FC%2B%2B-OpenCV Code-FF00CC"/></a>
- <a href = "https://blog.csdn.net/keep_trying_go/category_12736526.html"><img src = "https://img.shields.io/badge/C/C++-SDL2-door"/></a>
+	<a href = "https://blog.csdn.net/keep_trying_go/category_12736526.html"><img src = "https://img.shields.io/badge/C%2FC%2B%2B-FFmpeg-8A2BE2"/></a>
+ 	<a href = "https://blog.csdn.net/keep_trying_go/category_12736526.html"><img src = "https://img.shields.io/badge/C/C++-SDL2-door"/></a>
   
 
 
@@ -47,5 +48,7 @@
 <a style="text-decoration:none;" href = "https://mydreamambitious.blog.csdn.net/article/details/141525936" >三十.QtSDL_AudioPlayer_v4</a><br/>
 <a style="text-decoration:none;" href = "https://mydreamambitious.blog.csdn.net/article/details/141549031" >三十一.QtSDL&FFmpeg_RecodeAudio</a><br/>
 <a style="text-decoration:none;" href = "https://mydreamambitious.blog.csdn.net/article/details/141618412" >三十二.QtSDL&FFmpeg_VideoPlayer</a><br/>
+<a style="text-decoration:none;" href = "https://mydreamambitious.blog.csdn.net/article/details/141748938" >三十三.QtSDL&FFmpeg_VideoPlayer_v1</a><br/>
+
 
 
