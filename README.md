@@ -16,9 +16,9 @@
 <h2 align = "center"><a href = "https://blog.csdn.net/keep_trying_go/category_12736526.html">QT初级案例学习教程</a>&<a href = "https://www.bilibili.com/video/BV1zNvkeAEZy?p=1">B站视频教程</a></h2>
 <p></p>
 <h2>Projects</h2>
-<a  href = "https://blog.csdn.net/Keep_Trying_Go/article/details/140296792" style="text-decoration:none;">一.QtVideoPlayer</a><br/>
-<a style="text-decoration:none;" href = "https://blog.csdn.net/Keep_Trying_Go/article/details/140515351" >二.QtCamera</a><br/>
-<a style="text-decoration:none;" href = "https://mydreamambitious.blog.csdn.net/article/details/140296792" >三.QtMediaRecorder</a><br/>
+<a  href = "https://blog.csdn.net/Keep_Trying_Go/article/details/140296792" style="text-decoration:none;">一.QtVideoPlayer</a>该项目主要是实现了基于QT的简单视频播放器<br/>
+<a style="text-decoration:none;" href = "https://blog.csdn.net/Keep_Trying_Go/article/details/140515351" >二.QtCamera</a>通过QT实现拍照功能<br/>
+<a style="text-decoration:none;" href = "https://mydreamambitious.blog.csdn.net/article/details/140296792" >三.QtMediaRecorder</a>通过QT中多媒体模块实现音频录音<br/>
 <a style="text-decoration:none;" href = "https://mydreamambitious.blog.csdn.net/article/details/140592102" >四.QtVideoRecorder</a><br/>
 <a style="text-decoration:none;" href = "https://blog.csdn.net/Keep_Trying_Go/article/details/140619235" >五.QtMediaMetaData</a><br/>
 <a style="text-decoration:none;" href = "https://mydreamambitious.blog.csdn.net/article/details/140646599" >六.QtCamera</a><br/>
