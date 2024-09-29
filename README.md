@@ -53,6 +53,7 @@
 <a style="text-decoration:none;" href = "https://blog.csdn.net/Keep_Trying_Go/article/details/141894232" >三十五.QtSDL&FFmpeg_VideoPlayer_v3</a><br/>
 <a style="text-decoration:none;" href = "https://mydreamambitious.blog.csdn.net/article/details/141917537" >三十六.QtSDL&FFmpeg_VideoPlayer_v4</a><br/>
 <a style="text-decoration:none;" href = "https://mydreamambitious.blog.csdn.net/article/details/141994821" >三十七.QtSDL&FFmpeg_VideoPlayer_v5</a><br/>
+<a style="text-decoration:none;" href = "https://mydreamambitious.blog.csdn.net/article/details/142615293" >三十八.QtNCNN_Classification_v1</a><br/>
 
 
 
