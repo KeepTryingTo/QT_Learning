@@ -55,6 +55,7 @@
 <a style="text-decoration:none;" href = "https://mydreamambitious.blog.csdn.net/article/details/141994821" >三十七.QtSDL&FFmpeg_VideoPlayer_v5</a><br/>
 <a style="text-decoration:none;" href = "https://mydreamambitious.blog.csdn.net/article/details/142615293" >三十八.QtNCNN_Classification_objectDetection</a><br/>
 <a style="text-decoration:none;" href = "https://mydreamambitious.blog.csdn.net/article/details/142664439" >三十八.QtNCNN_pnnx_objectDetection</a><br/>
+<a style="text-decoration:none;" href = "https://mydreamambitious.blog.csdn.net/article/details/142690011" >三十八.QtNCNN_pnnx_segmentation</a><br/>
 
 
 
