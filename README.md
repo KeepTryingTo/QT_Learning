@@ -58,4 +58,7 @@
 <a style="text-decoration:none;" href = "https://mydreamambitious.blog.csdn.net/article/details/142690011" >三十八.QtNCNN_pnnx_segmentation</a><br/><p>QT中基于pnnx工具转ncnn实现图像分割</p>
 
 
+<a style="text-decoration:none;" href = "https://mydreamambitious.blog.csdn.net/article/details/142936356" >三十九.Qt_Quick_QQLogin</a><br/><p>QT Quick中实现QQ的登录界面</p>
+
+
 
