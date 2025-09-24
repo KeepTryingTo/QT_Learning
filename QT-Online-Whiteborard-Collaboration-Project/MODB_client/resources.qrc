@@ -1,0 +1,41 @@
+<RCC>
+    <qresource prefix="/">
+        <file>../images/clear.png</file>
+        <file>../images/client.png</file>
+        <file>../images/color_extractor.png</file>
+        <file>../images/conn_server.png</file>
+        <file>../images/epllise.png</file>
+        <file>../images/exportFile.png</file>
+        <file>../images/grid.png</file>
+        <file>../images/line.png</file>
+        <file>../images/mangify.png</file>
+        <file>../images/newFile.png</file>
+        <file>../images/openFile.png</file>
+        <file>../images/pen.png</file>
+        <file>../images/rect.png</file>
+        <file>../images/recycle_bin.png</file>
+        <file>../images/redo.png</file>
+        <file>../images/role.png</file>
+        <file>../images/saveFile.png</file>
+        <file>../images/server.png</file>
+        <file>../images/shrink.png</file>
+        <file>../images/text.png</file>
+        <file>../images/undo.png</file>
+        <file>../images/zoom.png</file>
+        <file>../images/palette.png</file>
+        <file>../images/eraser.png</file>
+        <file>../images/exit.png</file>
+        <file>../images/saveAs.png</file>
+        <file>../images/about.png</file>
+        <file>../images/version.png</file>
+        <file>resources/windows.css</file>
+        <file>../images/document.png</file>
+        <file>../images/update.png</file>
+        <file>../images/disconnect.png</file>
+        <file>../images/chat_frame.png</file>
+        <file>../images/editor.png</file>
+        <file>../images/presenter.png</file>
+        <file>../images/viewer.png</file>
+        <file>../images/users.png</file>
+    </qresource>
+</RCC>
