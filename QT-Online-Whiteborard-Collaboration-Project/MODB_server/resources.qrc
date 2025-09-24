@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/">
+        <file>../images/server.png</file>
+        <file>resources/windows.css</file>
+    </qresource>
+</RCC>
