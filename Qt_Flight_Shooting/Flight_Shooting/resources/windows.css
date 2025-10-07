@@ -1,0 +1,262 @@
+/* 全局样式 */
+QMainWindow {
+    background: qlineargradient(x1: 0, y1: 0, x2: 0, y2: 1,
+                                stop: 0 #2c3e50, stop: 1 #34495e);
+    font-family: 'Segoe UI', 'Microsoft YaHei', sans-serif;
+    color: #ecf0f1;
+    border: none;
+}
+
+/* 聊天显示区域 - QPlainTextEdit */
+QPlainTextEdit#chat_frame {
+    background-color: #2c3e50;
+    border: 2px solid #3498db;
+    border-radius: 12px;
+    padding: 15px;
+    color: #ecf0f1;
+    font-size: 14px;
+    selection-background-color: #3498db;
+    font-family: 'Consolas', 'Courier New', monospace;
+}
+
+QPlainTextEdit#chat_frame:focus {
+    border-color: #2980b9;
+    border-width: 2px;
+}
+
+/* 按钮通用样式 - 超平滑圆角 */
+QPushButton {
+    border: none;
+    border-radius: 5px; /* 更大的圆角值 */
+    color: white;
+    background: qlineargradient(x1: 0, y1: 0, x2: 0, y2: 1,
+                                stop: 0 #3498db, stop: 1 #2980b9);
+}
+
+QPushButton:hover {
+    background: qlineargradient(x1: 0, y1: 0, x2: 0, y2: 1,
+                                stop: 0 #2980b9, stop: 1 #21618c);
+}
+
+QPushButton:pressed {
+    background: qlineargradient(x1: 0, y1: 0, x2: 0, y2: 1,
+                                stop: 0 #21618c, stop: 1 #1a5276);
+}
+
+QPushButton:disabled {
+    background: #95a5a6;
+    color: #bdc3c7;
+    border-radius: 16px;
+}
+
+/* 清空按钮 - 平滑橙色渐变 */
+QPushButton#clear_btn {
+    background: qlineargradient(x1: 0, y1: 0, x2: 0, y2: 1,
+                                stop: 0 #f39c12, stop: 1 #e67e22);
+}
+
+QPushButton#clear_btn:hover {
+    background: qlineargradient(x1: 0, y1: 0, x2: 0, y2: 1,
+                                stop: 0 #e67e22, stop: 1 #d35400);
+}
+
+QPushButton#clear_btn:pressed {
+    background: qlineargradient(x1: 0, y1: 0, x2: 0, y2: 1,
+                                stop: 0 #d35400, stop: 1 #ba4a00);
+}
+
+/* 关闭连接按钮 - 平滑红色渐变 */
+QPushButton#close_btn {
+    background: qlineargradient(x1: 0, y1: 0, x2: 0, y2: 1,
+                                stop: 0 #e74c3c, stop: 1 #c0392b);
+}
+
+QPushButton#close_btn:hover {
+    background: qlineargradient(x1: 0, y1: 0, x2: 0, y2: 1,
+                                stop: 0 #c0392b, stop: 1 #a93226);
+ 
+}
+
+QPushButton#close_btn:pressed {
+    background: qlineargradient(x1: 0, y1: 0, x2: 0, y2: 1,
+                                stop: 0 #a93226, stop: 1 #922b21);
+    
+}
+
+/* 退出按钮 - 平滑灰色渐变 */
+QPushButton#exit_btn {
+    background: qlineargradient(x1: 0, y1: 0, x2: 0, y2: 1,
+                                stop: 0 #7f8c8d, stop: 1 #95a5a6);
+    
+}
+
+QPushButton#exit_btn:hover {
+    background: qlineargradient(x1: 0, y1: 0, x2: 0, y2: 1,
+                                stop: 0 #95a5a6, stop: 1 #859294);
+    
+}
+
+QPushButton#exit_btn:pressed {
+    background: qlineargradient(x1: 0, y1: 0, x2: 0, y2: 1,
+                                stop: 0 #859294, stop: 1 #7a898a);
+    
+}
+
+/* 监听按钮 - 平滑绿色渐变 */
+QPushButton#listen_btn {
+    background: qlineargradient(x1: 0, y1: 0, x2: 0, y2: 1,
+                                stop: 0 #2ecc71, stop: 1 #27ae60);
+    
+}
+
+QPushButton#listen_btn:hover {
+    background: qlineargradient(x1: 0, y1: 0, x2: 0, y2: 1,
+                                stop: 0 #27ae60, stop: 1 #219653);
+    
+}
+
+QPushButton#listen_btn:pressed {
+    background: qlineargradient(x1: 0, y1: 0, x2: 0, y2: 1,
+                                stop: 0 #219653, stop: 1 #1e8449);
+   
+}
+
+/* 搜索按钮 - 平滑紫色渐变 */
+QPushButton#search_btn {
+    background: qlineargradient(x1: 0, y1: 0, x2: 0, y2: 1,
+                                stop: 0 #9b59b6, stop: 1 #8e44ad);
+   
+}
+
+QPushButton#search_btn:hover {
+    background: qlineargradient(x1: 0, y1: 0, x2: 0, y2: 1,
+                                stop: 0 #8e44ad, stop: 1 #7d3c98);
+    
+}
+
+QPushButton#search_btn:pressed {
+    background: qlineargradient(x1: 0, y1: 0, x2: 0, y2: 1,
+                                stop: 0 #7d3c98, stop: 1 #6c3483);
+    
+}
+
+/* 发送按钮 - 平滑青绿色渐变 */
+QPushButton#send_btn {
+    background: qlineargradient(x1: 0, y1: 0, x2: 0, y2: 1,
+                                stop: 0 #1abc9c, stop: 1 #16a085);
+    
+}
+
+QPushButton#send_btn:hover {
+    background: qlineargradient(x1: 0, y1: 0, x2: 0, y2: 1,
+                                stop: 0 #16a085, stop: 1 #138a72);
+    
+}
+
+QPushButton#send_btn:pressed {
+    background: qlineargradient(x1: 0, y1: 0, x2: 0, y2: 1,
+                                stop: 0 #138a72, stop: 1 #117a65);
+    
+}
+
+/* 输入文本框 - QTextEdit */
+QTextEdit#input_text {
+    background-color: #2c3e50;
+    border: 2px solid #1abc9c;
+    border-radius: 12px;
+    color: #ecf0f1;
+    font-size: 14px;
+    selection-background-color: #1abc9c;
+    font-family: 'Segoe UI', sans-serif;
+}
+
+QTextEdit#input_text:focus {
+    border-color: #16a085;
+    border-width: 2px;
+}
+
+/* IP地址输入框 */
+QTextEdit#ip_text {
+    background-color: #2c3e50;
+    border: 2px solid #9b59b6;
+    border-radius: 12px;
+    color: #ecf0f1;
+    font-size: 14px;
+    selection-background-color: #9b59b6;
+}
+
+QTextEdit#ip_text:focus {
+    border-color: #8e44ad;
+    border-width: 2px;
+}
+
+/* 端口选择框 - QSpinBox */
+QSpinBox#port_box {
+    background-color: #2c3e50;
+    border: 2px solid #f39c12;
+    border-radius: 12px;
+    color: #ecf0f1;
+    font-size: 14px;
+    selection-background-color: #f39c12;
+}
+
+QSpinBox#port_box:focus {
+    border-color: #e67e22;
+    border-width: 2px;
+}
+
+QSpinBox#port_box::up-button {
+    subcontrol-origin: border;
+    subcontrol-position: top right;
+    width: 25px;
+    border-left: 1px solid #f39c12;
+    border-top-right-radius: 11px;
+    background: qlineargradient(x1: 0, y1: 0, x2: 0, y2: 1,
+                                stop: 0 #f39c12, stop: 1 #e67e22);
+}
+
+QSpinBox#port_box::down-button {
+    subcontrol-origin: border;
+    subcontrol-position: bottom right;
+    width: 25px;
+    border-left: 1px solid #f39c12;
+    border-bottom-right-radius: 11px;
+    background: qlineargradient(x1: 0, y1: 0, x2: 0, y2: 1,
+                                stop: 0 #e67e22, stop: 1 #d35400);
+}
+
+QSpinBox#port_box::up-button:hover, QSpinBox#port_box::down-button:hover {
+    background: qlineargradient(x1: 0, y1: 0, x2: 0, y2: 1,
+                                stop: 0 #e67e22, stop: 1 #d35400);
+}
+
+/* 标签样式 */
+QLabel {
+    color: #bdc3c7;
+    font-size: 14px;
+    
+    font-weight: 500;
+}
+
+/* 滚动条样式 */
+QScrollBar:vertical {
+    border: none;
+    background: #34495e;
+    width: 10px;
+    margin: 0px;
+    border-radius: 5px;
+}
+
+QScrollBar::handle:vertical {
+    background: #3498db;
+    border-radius: 5px;
+    min-height: 30px;
+}
+
+QScrollBar::handle:vertical:hover {
+    background: #2980b9;
+}
+
+QScrollBar::add-line:vertical, QScrollBar::sub-line:vertical {
+    height: 0px;
+}
