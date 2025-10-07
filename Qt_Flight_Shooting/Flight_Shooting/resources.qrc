@@ -1,0 +1,29 @@
+<RCC>
+    <qresource prefix="/">
+        <file>resources/windows.css</file>
+        <file>../images/bullet.png</file>
+        <file>../images/bullet_myself.png</file>
+        <file>../images/explosion.wav</file>
+        <file>../images/game.png</file>
+        <file>../images/shoot.wav</file>
+        <file>../images/space_background.png</file>
+        <file>../images/spaceship.png</file>
+        <file>../images/spaceship01.png</file>
+        <file>../images/enemy_easy.png</file>
+        <file>../images/enemy_hard.png</file>
+        <file>../images/enemy_medium.png</file>
+        <file>resources/bullet.png</file>
+        <file>resources/bullet_myself.png</file>
+        <file>resources/enemy_easy.png</file>
+        <file>resources/enemy_hard.png</file>
+        <file>resources/enemy_medium.png</file>
+        <file>resources/explosion.wav</file>
+        <file>resources/game.png</file>
+        <file>resources/shoot.wav</file>
+        <file>resources/space_background.png</file>
+        <file>resources/spaceship.png</file>
+        <file>resources/spaceship01.png</file>
+        <file>resources/lose.wav</file>
+        <file>resources/background_music.mp3</file>
+    </qresource>
+</RCC>
