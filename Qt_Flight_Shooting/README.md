@@ -6,13 +6,13 @@
 ![](./images/雷霆战机游戏演示.gif)
 
 
-视频讲解01：
+视频讲解01：https://www.bilibili.com/video/BV1DuxrzmEeg/?pop_share=1&vd_source=b2eaaddb2c69bf42517a2553af8444ab
 
-视频讲解02：
+视频讲解02：https://www.douyin.com/video/7559041181821308223
 
-代码下载地址01：
+代码下载地址01：https://github.com/KeepTryingTo/Qt_Flight_Shooting_Game/tree/main
 
-代码下载地址02：
+代码下载地址02：https://github.com/KeepTryingTo/QT_Learning/tree/main/Qt_Flight_Shooting
 
 
 功能实现
