@@ -4,6 +4,17 @@
 
 中国象棋项目实现了完整的人机对战功能，包含棋盘逻辑、走棋规则、AI智能和图形界面。AI采用Minimax算法和Alpha-Beta剪枝，支持5级难度调整。界面美观，棋子绘制精准，支持鼠标操作和移动提示。游戏流程完整，包含胜负判定、将军提示和回合切换。
 
+​
+视频讲解01：https://www.bilibili.com/video/BV18t4czKEB6/?vd_source=b2eaaddb2c69bf42517a2553af8444ab
+
+视频讲解02：https://www.douyin.com/video/7559882010752257323
+
+代码下载地址01：https://github.com/KeepTryingTo/Qt_Gomoku_Chinese_Chess
+
+代码下载地址02：https://github.com/KeepTryingTo/QT_Learning/tree/main/QtGomoku_Chinese_Chess
+
+​
+
 登录界面，游戏选择界面，五子棋界面和中国象棋界面
 ---------------------------------------------
 ![](./images/登录界面.png)
