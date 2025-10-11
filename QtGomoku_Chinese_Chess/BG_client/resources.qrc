@@ -1,0 +1,23 @@
+<RCC>
+    <qresource prefix="/">
+        <file>resources/login.css</file>
+        <file>resources/select.css</file>
+        <file>../images/login.png</file>
+        <file>../images/select.png</file>
+        <file>resources/board.css</file>
+        <file>../images/chat_frame.png</file>
+        <file>../images/client.png</file>
+        <file>../images/server.png</file>
+        <file>../images/users.png</file>
+        <file>resources/users_dialog.css</file>
+        <file>../images/role.png</file>
+        <file>../images/room.png</file>
+        <file>../images/sound.png</file>
+        <file>../images/chess_move.wav</file>
+        <file>../images/click.wav</file>
+        <file>../images/error.wav</file>
+        <file>../images/lose.wav</file>
+        <file>../images/notification.wav</file>
+        <file>../images/win.wav</file>
+    </qresource>
+</RCC>
