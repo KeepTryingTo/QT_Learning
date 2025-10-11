@@ -1,0 +1,59 @@
+GameSelectionDialog {
+            background-color: #f5f5f5;
+            font-family: "Microsoft YaHei", sans-serif;
+        }
+        QLabel {
+            color: #333333;
+            font-size: 14px;
+            font-weight: bold;
+        }
+        QLabel[objectName="welcomeLabel"] {
+            font-size: 18px;
+            color: #0066cc;
+            padding: 10px;
+        }
+        QPushButton {
+            border: 2px solid #cccccc;
+            border-radius: 8px;
+            padding: 12px 20px;
+            font-size: 14px;
+            min-width: 120px;
+            background-color: white;
+            color: #333333;
+        }
+        QPushButton:hover {
+            border-color: #0066cc;
+            background-color: #f0f7ff;
+        }
+        QPushButton:checked {
+            border-color: #0066cc;
+            background-color: #0066cc;
+            color: white;
+        }
+        QPushButton[text="开始游戏"] {
+            background-color: #28a745;
+            color: white;
+            border-color: #28a745;
+            font-size: 16px;
+            font-weight: bold;
+            min-width: 150px;
+            min-height: 40px;
+        }
+        QPushButton[text="开始游戏"]:hover {
+            background-color: #218838;
+            border-color: #1e7e34;
+        }
+        QPushButton[text="开始游戏"]:disabled {
+            background-color: #cccccc;
+            border-color: #aaaaaa;
+            color: #666666;
+        }
+        QPushButton[text="返回登录"] {
+            background-color: #6c757d;
+            color: white;
+            border-color: #6c757d;
+        }
+        QPushButton[text="返回登录"]:hover {
+            background-color: #545b62;
+            border-color: #4e555b;
+        }

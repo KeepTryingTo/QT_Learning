@@ -1,0 +1,43 @@
+﻿/* 主窗口背景设置 */
+QMainWindow {
+    background-color: #f0d9b5;  /* 浅木色背景 */
+    background-image: url(":/images/wood_texture.jpg");  /* 可选纹理背景 */
+    background-position: center;
+}
+
+/* 按钮基础样式 */
+QPushButton {
+    background-color: #8b4513;  /* 棕色按钮 */
+    color: white;
+    border: 2px solid #5d2906;
+    border-radius: 8px;
+    font-family: "Microsoft YaHei";
+    font-size: 14px;
+}
+
+/* 按钮悬停效果 */
+QPushButton:hover {
+    background-color: #a0522d;  /* 悬停时变亮 */
+}
+
+/* 按钮按下效果 */
+QPushButton:pressed {
+    background-color: #5d2906;  /* 按下时变深 */
+    padding-top: 7px;
+    padding-left: 11px;
+}
+
+/* 标签样式 */
+QLabel {
+    color: #333333;
+    font-family: "Microsoft YaHei";
+    font-size: 16px;
+    qproperty-alignment: AlignCenter;
+}
+
+/* 特殊标签 - 比如显示当前玩家或胜利信息 */
+QLabel#statusLabel {
+    font-size: 18px;
+    font-weight: bold;
+    color: #8b4513;
+}

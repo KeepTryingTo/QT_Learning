@@ -1,0 +1,27 @@
+OnlineUsersDialog {
+    background-color: #f8f9fa;
+}
+QListWidget {
+    background-color: white;
+    border: 1px solid #dee2e6;
+    border-radius: 4px;
+    font-size: 12px;
+}
+QListWidget::item {
+    padding: 8px;
+    border-bottom: 1px solid #e9ecef;
+}
+QListWidget::item:selected {
+    background-color: #e3f2fd;
+    color: #1976d2;
+}
+QPushButton {
+    background-color: #007bff;
+    color: white;
+    border: none;
+    border-radius: 3px;
+    padding: 4px 8px;
+}
+QPushButton:hover {
+    background-color: #0056b3;
+}

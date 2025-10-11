@@ -1,0 +1,58 @@
+QDialog {
+    background-color: #f0f0f0;
+    font-family: "Microsoft YaHei", sans-serif;
+}
+QLabel {
+    color: #333333;
+    font-size: 12px;
+}
+QLabel[objectName="titleLabel"] {
+    font-size: 14px;
+    font-weight: bold;
+    color: #0066cc;
+}
+QLineEdit {
+    border: 1px solid #cccccc;
+    border-radius: 3px;
+    padding: 5px 10px;
+    background-color: white;
+    font-size: 12px;
+}
+QLineEdit:focus {
+    border-color: #0066cc;
+}
+QPushButton {
+    border: 1px solid #0066cc;
+    border-radius: 3px;
+    padding: 8px 15px;
+    font-size: 12px;
+    min-width: 70px;
+}
+QPushButton:hover {
+    background-color: #e6f3ff;
+}
+QPushButton:pressed {
+    background-color: #cce5ff;
+}
+/* 登录按钮样式 - 蓝色背景 */
+QPushButton[text="登录"] {
+    background-color: #0066cc;
+    color: white;
+}
+QPushButton[text="登录"]:hover {
+    background-color: #0052a3;
+}
+/* 注册按钮样式 - 白色背景 */
+QPushButton[text="注册"] {
+    background-color: white;
+    color: #0066cc;
+}
+/* 退出按钮样式 - 白色背景，红色边框 */
+QPushButton[text="退出"] {
+    background-color: white;
+    color: #cc0000;
+    border-color: #cc0000;
+}
+QPushButton[text="退出"]:hover {
+    background-color: #ffe6e6;
+}
