@@ -57,8 +57,7 @@
 <a style="text-decoration:none;" href = "https://mydreamambitious.blog.csdn.net/article/details/142664439" >三十八.QtNCNN_pnnx_objectDetection</a><br/><p>基于腾讯优图pnnx在QT中实现目标检测，正是由于onnx中间格式转ncnn存在很多的问题，因此使用pnnx工具转ncnn</p>
 <a style="text-decoration:none;" href = "https://mydreamambitious.blog.csdn.net/article/details/142690011" >三十八.QtNCNN_pnnx_segmentation</a><br/><p>QT中基于pnnx工具转ncnn实现图像分割</p>
 
-
 <a style="text-decoration:none;" href = "https://mydreamambitious.blog.csdn.net/article/details/142936356" >三十九.Qt_Quick_QQLogin</a><br/><p>QT Quick中实现QQ的登录界面</p>
 
-
+<img src="https://example.com/path/to/image.jpg" alt="网络图片">
 
