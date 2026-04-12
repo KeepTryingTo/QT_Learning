@@ -59,5 +59,13 @@
 
 <a style="text-decoration:none;" href = "https://mydreamambitious.blog.csdn.net/article/details/142936356" >三十九.Qt_Quick_QQLogin</a><br/><p>QT Quick中实现QQ的登录界面</p>
 
-<img src="https://example.com/path/to/image.jpg" alt="网络图片">
+## Star History
+
+<a href="https://www.star-history.com/?repos=KeepTryingTo%2FQT_Learning&type=date&legend=top-left">
+ <picture>
+   <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/chart?repos=KeepTryingTo/QT_Learning&type=date&theme=dark&legend=top-left" />
+   <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/chart?repos=KeepTryingTo/QT_Learning&type=date&legend=top-left" />
+   <img alt="Star History Chart" src="https://api.star-history.com/chart?repos=KeepTryingTo/QT_Learning&type=date&legend=top-left" />
+ </picture>
+</a>
 
